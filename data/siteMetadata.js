@@ -5,11 +5,11 @@ const siteMetadata = {
   description: 'Connecting people with fun and entertainment.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://nx-lightsout.vercel.app',
   siteRepo: 'https://github.com/undead-reaper/nx-lightsout',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/lightsout_banner_light.png',
   email: 'thebbtfan123@gmail.com',
   instagram: 'https://www.instagram.com/the_flawed_soul',
   snapchat: 'https://www.snapchat.com/add/moonchild3501',
